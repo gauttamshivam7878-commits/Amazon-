@@ -17,7 +17,7 @@
 #bb {
     height :42px;
     width:120px;
-    background-image: url(images/ama.png);
+    background-image: url(ama.png);
     background-size: cover;
     top: 7px;
     border:2px solid transparent;
@@ -91,7 +91,7 @@ INPUT{
 #ff{
     height: 37px;
     width: 37px;
-    background-image: url(images/search.png);
+    background-image: url(search.png);
     background-size: cover;
     position: absolute;
     right :434px;
@@ -179,7 +179,7 @@ p4{
 #hh{
     height: 17px;
     width: 28px;
-    background-image: url(images/flag.png);
+    background-image: url(flag.png);
     background-size: cover;
     
 }
@@ -198,7 +198,7 @@ p2 {
 #kk {
     height: 40px;
     width:68px;
-    background-image: url(/cart.png);
+    background-image: url(cart.png);
     background-size: cover;
     border:2px solid transparent;
     position: absolute;
@@ -251,7 +251,7 @@ p2 {
 }
 
 #pp{
-    background-image: url(images/image08.png);
+    background-image: url(image08.png);
     background-size: cover;
     height: 1200px;
     width: 100%;
@@ -261,7 +261,7 @@ p2 {
 }
 
 #qq{
-    background-image: url(images/image09.png);
+    background-image: url(image09.png);
     background-size: cover;
     height:1300px;
     width: 100%;
